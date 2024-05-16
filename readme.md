@@ -2,7 +2,7 @@
 
 ## Exportador de Fontes de Dados do BPM para .csv
 
-Agiliza o processo de importação de tabelas BPM entre tenants, automagicamente exportando o conteúdo para um arquivo .csv da Fonte de Dados podendo ser importado no Tenant destino
+Agiliza o processo de importação de tabelas BPM entre tenants, automagicamente exportando o conteúdo da Fonte de Dados para um arquivo .csv podendo ser importado no Tenant destino
 
 ## Como Utilizar
 
